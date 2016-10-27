@@ -16,7 +16,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".ComoConectarse" />
-        <activity android:name=".Prueba"></activity>
     </application>
 
 </manifest>
